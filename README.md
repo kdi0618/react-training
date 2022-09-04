@@ -8,9 +8,9 @@ https://user-images.githubusercontent.com/65636371/188320524-c2474cee-6ea9-4108-
 
 
 ## 閲覧先のブランチ
-- **feat**
+- [feat](https://github.com/kdi0618/react-training/tree/feat)
   - React, hooksを使ったSPAのtodoアプリ
-- **feat-library-ver**
+- [feat-library-ver](https://github.com/kdi0618/react-training/tree/feat-library-ver)
   - React, hooks, React-router, React-query を使ったSPAのtodoアプリ
 
 ## 動作確認方法
